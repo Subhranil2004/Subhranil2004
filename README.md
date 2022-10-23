@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm subhranil nandy</h1>
-<h3 align="center">A High School Student Programmer, interested in programming from West Bengal, India</h3>
+<h3 align="center">A B.Tech 1st Semester Student Programmer, interested in programming from West Bengal, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsubhra&label=Profile%20views&color=0e75b6&style=flat" alt="iamsubhra" /> </p>
 
