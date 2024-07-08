@@ -20,7 +20,7 @@
 
 💬 My hobbies include playing the keyboard, reading, and staying fit.
 
-⚡ Fun fact: I did scuba-diving in the Andamans, and it was really exhilarating.
+⚡ Fun fact: I did scuba-diving in the Andamans, and it was really exhilarating. 😜
 
 📫 Reach out to me **iamsubhranil.nandy@gmail.com**
 
