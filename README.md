@@ -9,7 +9,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Subhranil Nandy</h1>
+<h1 align="center">Hi 👋, I'm Subhranil</h1>
 
 <!--# 💫 About Me:) -->
 🔭 Actively working on machine learning applications across various domains, healthcare, for instance.
