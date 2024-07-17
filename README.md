@@ -52,8 +52,9 @@
 -->
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Fun and Philosophy
+<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card"/>  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=false" alt="Quote Card"/>
+
 
 ---
 ![](https://visitcount.itsvg.in/api?id=Subhranil2004&icon=10&color=1)
