@@ -53,7 +53,11 @@
 
 
 ### ✍️ Fun and Philosophy
-<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card"/>  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=false" alt="Quote Card"/>
+<!--<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card"/>  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=false" alt="Quote Card"/>-->
+<div style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" style="height: 150px; margin-right: 10px;"/> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=false" alt="Quote Card" style="height: 150px;"/>
+</div>
+
 
 
 ---
