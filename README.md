@@ -14,17 +14,17 @@
 <!--# 💫 About Me:) -->
 🔭 Actively working on `ML` applications across various domains, `healthcare`, for instance.
 
-👯 Eager to collaborate on projects requiring IT application expertise.
-
 🌱 Currently pursuing a B.Tech in Information Technology `(IT) at IIEST, Shibpur`.
 
-💬 My hobbies include playing the keyboard, reading, and staying fit.
+💬 AMA about ***Machine Learning!***
+
+🎹 My hobbies include playing synthesizer, reading, and staying fit.
 
 ⚡ Fun fact: I did scuba-diving in the Andamans, and it was really exhilarating. 😜
 
 <!--🌐 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhranil-nandy) -->
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   
 <img src="https://github.com/Subhranil2004/Subhranil2004/blob/4d9bb55cd1441e6d2723483ad40e710f3dff09fb/icons/java-ar21.svg" alt="Java" height="40"/> <img height="35" alt="C Programming Language" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/256px-C_Programming_Language.svg.png"> ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
