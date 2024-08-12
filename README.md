@@ -29,7 +29,10 @@
 
 ### <img src="icons/GSSoC24_logo.jpeg" height="25"/>  GSSoC'24 Badges
 <p align="center">
-<img src="icons/GSSoC24_Badges.png" align="centre" height="250"/>
+<a title="GSSoC'24" href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
+  <img src="icons/GSSoC24_Badges.png" align="center" height="250" />
+</a>
+
 </p>
 
 ### 📊 Stats
