@@ -10,7 +10,7 @@
 
 🎹 My hobbies include playing synthesizer, reading, and staying fit.
 
-⚡ Fun fact: I did scuba-diving in the Andamans, and it was really exhilarating. 😜
+⚡ Fun fact: I went scuba-diving in the Andamans and paragliding in Kalimpong, and it was really exhilarating. 😜
 
 <!--🌐 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhranil-nandy) -->
 
