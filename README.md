@@ -13,9 +13,36 @@
 ⚡ Fun fact: I went scuba-diving in the Andamans and paragliding in Kalimpong, and 'twas really exhilarating. 😜
 
 <!--🌐 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhranil-nandy) -->
+<br>
+<h3><b>🛠 Tech Stack/ Certifications</b></h3>
+
+<b>Languages & Databases:</b>  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-MATLAB-FF8000?logo=mathworks&logoColor=white&style=flat">&nbsp;<br>
+<b>Frameworks and Libraries:</b>  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Matplotlib-11557c?logo=plotly&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-SciPy-654FF0?logo=scipy&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=flat">&nbsp;<br>
+<b>Tools and Platforms:</b>  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Qiskit-6929C4?logo=ibm&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=flat">&nbsp;<br>
+<b>Embedded Systems & OS:</b>  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white&style=flat">&nbsp;
 
 
-<details>
+<!-- <details>
  <summary><h3 style="display: inline; cursor: pointer;">🛠️ Tech Stack <span style="font-size: 0.8em; color: gray;">(Click to view)</span> </h3></summary>
 
   
@@ -27,7 +54,7 @@
    
    ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) <a title="Linux OS" href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
    
-</details>
+</details> -->
 
 ### <img src="icons/GSSoC24_logo.jpeg" height="25"/>  GSSoC'24 Badges
 <p align="center">
@@ -35,6 +62,11 @@
   <img src="icons/GSSoC24_Badges.png" align="center" height="250" />
 </a>
 
+</p>
+
+### 🔝 My Top-10 Contributed Repositories
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=subhranil2004&limit=10&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
 
 ### 📊 Stats
